@@ -3,8 +3,7 @@ package assignments;
 public class AAAAAAAAAAAAAAA {
 
 	public static void main(String[] args) {
-System.out.println(sample)
-System.out.println(sample02);
+
 		
 		
 	String s = "Selenium";
@@ -57,4 +56,8 @@ System.out.println(sample02);
 	System.out.println(sum2);
 	System.out.println(sum2-sum1);
 	}
+	
+	
+System.out.println(sample);
+System.out.println(sample02);
 }
