@@ -59,8 +59,5 @@ public class AAAAAAAAAAAAAAA {
 	
 	
 	
-System.out.println(sample);
-System.out.println(sample02);
-System.out.println(sample);
-System.out.println(sample02);
+
 }
