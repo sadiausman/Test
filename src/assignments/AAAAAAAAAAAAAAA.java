@@ -3,7 +3,10 @@ package assignments;
 public class AAAAAAAAAAAAAAA {
 
 	public static void main(String[] args) {
-
+System.out.println(sample)
+System.out.println(sample02);
+		
+		
 	String s = "Selenium";
 	int len = s.length();
 	String rev = "";
