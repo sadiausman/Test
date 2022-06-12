@@ -55,6 +55,11 @@ public class AAAAAAAAAAAAAAA {
     }
 	System.out.println(sum2);
 	System.out.println(sum2-sum1);
+		
+		
+	
+	System.out.println(demo);
+	System.out.println(demo 2);	
 	}
 	
 	
