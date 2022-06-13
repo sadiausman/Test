@@ -8,9 +8,9 @@ public class AAAAAAAAAAAAAAA {
 		System.out.println("test comand 1");
 		System.out.println("test comand 2");
 		
-		System.out.println("test");
-		System.out.println("test 1");
-		System.out.println("test 2");
+		System.out.println("test 121");
+		System.out.println("test 123");
+		System.out.println("test 23");
 	
 		
 		
