@@ -4,7 +4,9 @@ public class AAAAAAAAAAAAAAA {
 
 	public static void main(String[] args) {
 		
-               
+        System.out.println(demo operation);
+        System.out.println(demo operation#1);
+        System.out.println(demo operation#2);
 		
 		
 		
