@@ -4,14 +4,7 @@ public class AAAAAAAAAAAAAAA {
 
 	public static void main(String[] args) {
 		
-                System.out.println("test comand");
-		System.out.println("test comand 1");
-		System.out.println("test comand 2");
-		
-		System.out.println(demo);
-	        System.out.println(demo 2);
-	        System.out.println(demo);
-	        System.out.println(demo 2);
+               
 		
 		
 		
