@@ -4,9 +4,9 @@ public class AAAAAAAAAAAAAAA {
 
 	public static void main(String[] args) {
 		
-                System.out.println("test new 0");
-		System.out.println("test new 1");
-		System.out.println("test new 2");
+                System.out.println("test comand");
+		System.out.println("test comand 1");
+		System.out.println("test comand 2");
 		
 	
 		
